@@ -1,0 +1,17 @@
+{
+  "name": "МЕСТО ЕСТЬ — фулфилмент в Подольске",
+  "short_name": "МЕСТО ЕСТЬ",
+  "description": "Фулфилмент для маркетплейсов и адресное хранение паллет.",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c2529",
+  "theme_color": "#1c2529",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

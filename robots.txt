@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin
+Disallow: /site-preview
+Disallow: /api/
+
+Host: mestoest-ff.ru
+Sitemap: https://mestoest-ff.ru/sitemap.xml
